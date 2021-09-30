@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Timur Alchibekov
 - 👀 I’m interested in Laravel/JS
-- 🌱 I’m currently learning OOP Patterns
+- 🌱 I’m currently working as Laravel teamlead
 - 💞️ I’m looking to collaborate on creative folks
 - 📫 How to reach me atm.platinum@gmail.com
 
